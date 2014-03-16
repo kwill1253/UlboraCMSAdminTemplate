@@ -1,7 +1,7 @@
-UlboraCMSAdminTemplate
+UlboraCMS Admin Template
 ======================
 
-UlboraCMS Admin template that uses AngularJS and Bootstrap.js 
+UlboraCMS Admin template that uses AngularJS 1.2 and Bootstrap.js v3
 
 UlboraCMS is a Java API build with Spring 3, Hibernate, JPA. UlboraCMS uses Spring MVC as the JSON REST layer. 
 It includes versioning, a workflow engine, and a WYSIWYG editor. 
