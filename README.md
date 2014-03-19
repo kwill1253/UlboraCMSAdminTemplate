@@ -1,4 +1,4 @@
-UlboraCMS Admin Template
+Ulbora CMS Admin Template
 ======================
 
 Ulbora CMS Admin template that uses AngularJS 1.2 and Bootstrap.js v3
